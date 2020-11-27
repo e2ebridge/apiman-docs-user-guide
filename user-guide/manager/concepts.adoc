@@ -1,4 +1,4 @@
-= Apiman Concepts
+= E2EBrdige Concepts
 
 == API Manager
 There are two layers to the API management project. There is an API Manager which allows end users to
